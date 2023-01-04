@@ -1,0 +1,160 @@
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.exe
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.deps.json
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.runtimeconfig.json
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.AssemblyReference.cache
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ana_Ekran.resources
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.GenerateResource.cache
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfoInputs.cache
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfo.cs
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CoreCompileInputs.cache
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CopyComplete
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\refint\ECT-OTO.dll
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.genruntimeconfig.cache
+C:\Users\ENGINEER\source\repos\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ref\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.exe
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.deps.json
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.runtimeconfig.json
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.AssemblyReference.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ana_Ekran.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AracBilgiDegistirme.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Arama.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AramaDetay.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ayarlar.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Giris.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.IslemKayit.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Kayit.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.KullaniciSifreDegistirmeEkrani.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Teknisyenler.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.GenerateResource.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfoInputs.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfo.cs
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CoreCompileInputs.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CopyComplete
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\refint\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.genruntimeconfig.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ref\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.exe
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.deps.json
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.runtimeconfig.json
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ana_Ekran.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AracBilgiDegistirme.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Arama.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AramaDetay.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ayarlar.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Giris.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.IslemKayit.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Kayit.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.KullaniciSifreDegistirmeEkrani.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Teknisyenler.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfoInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfo.cs
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CopyComplete
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\refint\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.genruntimeconfig.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ref\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.AssemblyReference.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ana_Ekran.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AracBilgiDegistirme.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Arama.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AramaDetay.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ayarlar.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Giris.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.IslemKayit.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Kayit.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.KullaniciSifreDegistirmeEkrani.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Teknisyenler.resources
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.GenerateResource.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfoInputs.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfo.cs
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CoreCompileInputs.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.exe
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.deps.json
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.runtimeconfig.json
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CopyComplete
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\refint\ECT-OTO.dll
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.genruntimeconfig.cache
+C:\Users\ENGINEER\Documents\Visual Studio 2022\Projects\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ref\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.exe
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.deps.json
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.runtimeconfig.json
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ana_Ekran.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AracBilgiDegistirme.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Arama.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.AramaDetay.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Ayarlar.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Giris.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.IslemKayit.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Kayit.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT_OTO.Ekranlar.Teknisyenler.resources
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfoInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.AssemblyInfo.cs
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.csproj.CopyComplete
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\refint\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.pdb
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ECT-OTO.genruntimeconfig.cache
+C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\obj\Debug\net6.0-windows\ref\ECT-OTO.dll

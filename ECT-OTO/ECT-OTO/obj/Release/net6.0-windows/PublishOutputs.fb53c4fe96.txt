@@ -1,0 +1,12 @@
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\ECT-OTO.exe
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\ECT-OTO.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\ECT-OTO.deps.json
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\ECT-OTO.runtimeconfig.json
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\ECT-OTO.pdb
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\Google.Protobuf.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\K4os.Compression.LZ4.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\K4os.Compression.LZ4.Streams.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\K4os.Hash.xxHash.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\MySql.Data.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\ZstdNet.dll
+C:\Users\Emre\OneDrive\Masaüstü\Biten C# Projeleri\OtoServis\BouncyCastle.Crypto.dll

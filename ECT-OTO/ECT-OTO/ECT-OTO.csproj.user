@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Emre\OneDrive\Masaüstü\otomasyon\ECT-OTO\ECT-OTO\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Ekranlar\Ana_Ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\AracBilgiDegistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\Arama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\AramaDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\IslemKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\Kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ekranlar\Teknisyenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
